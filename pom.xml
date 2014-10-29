@@ -8,5 +8,13 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.solr</groupId>
+      <artifactId>solr</artifactId>
+      <version>4.10.2</version>
+    </dependency>
+  </dependencies>
+
 </project>
 
